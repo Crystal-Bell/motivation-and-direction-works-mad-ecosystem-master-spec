@@ -1,0 +1,1 @@
+# motivation-and-direction-works-mad-ecosystem-master-spec
