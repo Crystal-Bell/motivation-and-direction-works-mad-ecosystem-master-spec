@@ -1,1 +1,2 @@
+Required Correction Note: Update the licensing governance file to swap the cardboard box magnetic foil requirement for the cost-effective high-friction silicone tray insert.
 # motivation-and-direction-works-mad-ecosystem-master-spec
